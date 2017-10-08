@@ -1,0 +1,8 @@
+name: SpigotKotlinExample
+version: 0.0.1
+main: com.ruskonert.example.SpigotKotlinExample
+author: [Ruskonert]
+description: This project is an example of Spigot Plugin based on Kotlin.
+commands:
+  example:
+    description: No description.

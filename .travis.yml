@@ -1,0 +1,7 @@
+anguage: java
+sudo: false
+script: mvn package
+jdk:
+  - oraclejdk8
+notifications:
+  email: false
